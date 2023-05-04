@@ -18,7 +18,7 @@ Edit /etc/rc.local:
 
 Using cursor keys scroll to the bottom and add next line before "exit 0":
 
-    $ sudo /home/cube/ngcubesmon_cm/ngcubesmon_cm --silent &
+      sudo /home/cube/ngcubesmon_cm/ngcubesmon_cm --silent &
 
 ![](./docs/rc.local.png)
 
